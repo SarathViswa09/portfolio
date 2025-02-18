@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.097bc699.css",
+    "main.js": "/portfolio/static/js/main.12aed5df.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Sarath.pdf": "/portfolio/static/media/Sarath.17805c014dd337cccd3e.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.097bc699.css.map": "/portfolio/static/css/main.097bc699.css.map",
+    "main.12aed5df.js.map": "/portfolio/static/js/main.12aed5df.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.097bc699.css",
+    "static/js/main.12aed5df.js"
+  ]
+}
